@@ -1,0 +1,23 @@
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\TarifficTechnicalAssessment\bin\TarifficTechnicalAssessment.dll.config
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\TarifficTechnicalAssessment\bin\TarifficTechnicalAssessment.dll
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\TarifficTechnicalAssessment\bin\TarifficTechnicalAssessment.pdb
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\TarifficTechnicalAssessment\obj\Debug\TarifficTechnicalAssessment.dll
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\TarifficTechnicalAssessment\obj\Debug\TarifficTechnicalAssessment.pdb
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\TarifficTechnicalAssessment\bin\BLL.dll
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\TarifficTechnicalAssessment\bin\BO.dll
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\TarifficTechnicalAssessment\bin\DAL.dll
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\TarifficTechnicalAssessment\bin\BLL.pdb
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\TarifficTechnicalAssessment\bin\BO.pdb
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\TarifficTechnicalAssessment\bin\DAL.pdb
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\TarifficTechnicalAssessment\obj\Debug\TarifficTechnicalAssessment.csprojResolveAssemblyReference.cache
+C:\TarifficTechnicalAssessment\TarifficTechnicalAssessment\bin\TarifficTechnicalAssessment.dll
+C:\TarifficTechnicalAssessment\TarifficTechnicalAssessment\bin\TarifficTechnicalAssessment.pdb
+C:\TarifficTechnicalAssessment\TarifficTechnicalAssessment\bin\BLL.dll
+C:\TarifficTechnicalAssessment\TarifficTechnicalAssessment\bin\BO.dll
+C:\TarifficTechnicalAssessment\TarifficTechnicalAssessment\bin\DAL.dll
+C:\TarifficTechnicalAssessment\TarifficTechnicalAssessment\bin\BLL.pdb
+C:\TarifficTechnicalAssessment\TarifficTechnicalAssessment\bin\BO.pdb
+C:\TarifficTechnicalAssessment\TarifficTechnicalAssessment\bin\DAL.pdb
+C:\TarifficTechnicalAssessment\TarifficTechnicalAssessment\obj\Debug\TarifficTechnicalAssessment.csprojResolveAssemblyReference.cache
+C:\TarifficTechnicalAssessment\TarifficTechnicalAssessment\obj\Debug\TarifficTechnicalAssessment.dll
+C:\TarifficTechnicalAssessment\TarifficTechnicalAssessment\obj\Debug\TarifficTechnicalAssessment.pdb

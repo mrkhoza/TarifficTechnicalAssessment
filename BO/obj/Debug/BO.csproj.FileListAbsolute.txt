@@ -1,0 +1,10 @@
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\BO\bin\Debug\BO.dll
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\BO\bin\Debug\BO.pdb
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\BO\obj\Debug\BO.dll
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\BO\obj\Debug\BO.pdb
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\TarifficTechnicalAssessment\BO\bin\Debug\BO.dll
+C:\TarifficTechnicalAssessment\BO\bin\Debug\BO.pdb
+C:\TarifficTechnicalAssessment\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\TarifficTechnicalAssessment\BO\obj\Debug\BO.dll
+C:\TarifficTechnicalAssessment\BO\obj\Debug\BO.pdb

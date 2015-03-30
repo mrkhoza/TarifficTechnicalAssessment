@@ -1,0 +1,14 @@
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\DAL\bin\Debug\DAL.dll
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\DAL\bin\Debug\DAL.pdb
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\DAL\bin\Debug\BO.dll
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\DAL\bin\Debug\BO.pdb
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\DAL\obj\Debug\DAL.dll
+C:\Users\Lucky\documents\visual studio 2013\Projects\TarifficTechnicalAssessment\DAL\obj\Debug\DAL.pdb
+C:\TarifficTechnicalAssessment\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\TarifficTechnicalAssessment\DAL\obj\Debug\DAL.dll
+C:\TarifficTechnicalAssessment\DAL\obj\Debug\DAL.pdb
+C:\TarifficTechnicalAssessment\DAL\bin\Debug\DAL.dll
+C:\TarifficTechnicalAssessment\DAL\bin\Debug\DAL.pdb
+C:\TarifficTechnicalAssessment\DAL\bin\Debug\BO.dll
+C:\TarifficTechnicalAssessment\DAL\bin\Debug\BO.pdb
